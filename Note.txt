@@ -1,1 +1,0 @@
-The program is only for reference the user needs to modify the parameters in the program and the definition of various types of pins according to their actual situation.
