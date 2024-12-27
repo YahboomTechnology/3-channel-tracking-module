@@ -1,0 +1,53 @@
+Lower drive plate	Left front wheel
+   AO1		M1
+   AO2		M2
+   GND		G
+   3V3		V
+   E1B		B
+   E1A		A
+   
+Lower drive plate	Right front wheel
+   BO1		M1
+   BO2		M2
+   GND		G
+   3V3		V
+   E2B		B
+   E2A		A
+   
+Upper drive plate	Left rear wheel
+   AO1		M1
+   AO2		M2
+   GND		G
+   3V3		V
+   E1B		B
+   E1A		A
+   
+Upper drive plate	Right rear wheel
+   BO1		M1
+   BO2		M2
+   GND		G
+   3V3		V
+   E2B		B
+   E2A		A
+   
+Lower driver board   	MSPM0G3507
+   AIN1		PA0
+   AIN2		PA1
+   BIN1		PA7
+   BIN2		PB2	
+	
+Upper driver board   	MSPM0G3507
+   AIN1		PB6
+   AIN2		PB7
+   BIN1		PA12
+   BIN2		PA13
+    5V		5V
+    GND		GND
+
+Three-way line patrol module	MSPM0G3507
+  VCC			3V3
+  X1			PA14
+  X2			PA15
+  X3			PA16
+  GND			GND
+ 
